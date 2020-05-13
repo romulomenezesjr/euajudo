@@ -1,0 +1,2 @@
+Facebook App: https://developers.facebook.com/apps/612210722701715/settings/basic/
+Chave secreta do app: dbb4d51e0b6cfcceab4d12d56dfffc25
